@@ -1,0 +1,16 @@
+.navigation{
+    background-color: #155e62;
+}
+
+.navigation .cart-link {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+}
+
+.navigation .cart-link span {
+  display: inline-block !important;
+  line-height: normal;
+}
